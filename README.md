@@ -31,7 +31,7 @@ The application demonstrates fundamental network programming concepts using two 
 
     # UDP
     gcc -Wall serveur.c -o serveurUDP
-    gcc -Wall serveur.c -o clientUDP
+    gcc -Wall client.c -o clientUDP
     ```
 
 2.  **Run the server:**
